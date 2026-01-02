@@ -1,10 +1,9 @@
-# Labo-ESXi-Kali
-Déploiement d'un laboratoire de cybersécurité hybride combinant un hyperviseur VMware ESXi 8.0 et une machine d'attaque Kali Linux. Focus sur l'optimisation des ressources hardware (12 Go RAM) et le dépannage système (Troubleshooting PSOD).
- 
-# Projet : Infrastructure de Pentesting & Virtualisation (Home Lab)
+ ## Lab-Security-Infrastructure : Architecture Hybride & Cyber-Défense
 
-##  Présentation
-Déploiement d'un environnement de virtualisation local pour la pratique de la cybersécurité. Ce projet vise à simuler un réseau d'entreprise vulnérable et une machine attaquante dans un environnement cloisonné.
+##  Présentation du Projet
+Ce laboratoire constitue ma fondation technique pour l'apprentissage de la cybersécurité. L'objectif est de créer un environnement de simulation complet permettant d'étudier les vecteurs d'attaque (Pentest) pour mieux concevoir les stratégies de défense (**Blue Team**) et appliquer les principes de **Gouvernance** (durcissement, conformité, gestion des accès).
+
+Ce projet documente le déploiement d'une instance **Kali Linux** optimisée et la résolution d'incidents d'infrastructure réels rencontrés lors de la mise en place de l'hyperviseur **VMware ESXi 8.0**.
 
 ##  Stack Technique & Matériel
 * **Hôte Physique :** AMD Ryzen 5 5600H / 12 Go RAM DDR4.
